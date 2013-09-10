@@ -1,4 +1,4 @@
-git-projecteuler
+git-java-projecteuler
 ================
 
 Project Euler programming challenges in java.
